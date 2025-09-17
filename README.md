@@ -2,9 +2,11 @@
 
 # prepare the dataset
 following openood to download the data, 
-unzip the "openood.zip" in the current folder,
-put all the openood data in the ./data folder,
-download the "models.zip" and extract it in the current folder.
+put all the openood data in the ./data folder, 
+it should lool like as "./data/benchmark_imglist ./data/images_classic ./data/images_largescale",
+also need the ImageNet-1k training data to be put in the folder "./data/images_largescale/imagenet_1k/train";
+unzip the "openood.zip" in the current folder as "./openood",
+download the "models.zip" and unzip it in the current folder as "./models".
 
 
 # for evaluation

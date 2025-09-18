@@ -14,7 +14,7 @@ also need the ImageNet-1k training data to be put in the folder "./data/images_l
 
 unzip the "openood.zip" in the current folder as "./openood",
 
-download the "[models.zip](https://drive.google.com/file/d/1Y1E5MGo8jalvKy-gpO24MVn2ej6t_XTT/view?usp=sharing)" and unzip it in the current folder as "./models".
+download the "[models.zip](https://drive.google.com/file/d/1pFWlH3TVEcLnyjWyos_KKv51bMDcQGUB/view?usp=sharing)" and unzip it in the current folder as "./models".
 
 
 # for evaluation

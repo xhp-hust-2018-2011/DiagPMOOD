@@ -13,8 +13,8 @@ for path in \
     --arch $arch \
     --ckpt-path $mod_path \
     --save-path $save_path \
-    --num_workers 0 \
-    --skip_train
+    --num_workers 0 # \
+    # --skip_train
 done
 
 idset="imagenet200"
@@ -34,8 +34,8 @@ for path in \
     --arch $arch \
     --ckpt-path $mod_path \
     --save-path $save_path \
-    --num_workers 0 \
-    --skip_train
+    --num_workers 0 # \
+    # --skip_train
 done
 
 
@@ -54,8 +54,8 @@ for path in \
     --arch $arch \
     --ckpt-path $mod_path \
     --save-path $save_path \
-    --num_workers 0 \
-    --skip_train
+    --num_workers 0 # \
+    # --skip_train
 done
 
 idset="imagenet"
@@ -71,6 +71,6 @@ for path in \
     --arch $arch \
     --ckpt-path $mod_path \
     --save-path $save_path \
-    --num_workers 0 \
-    --skip_train
+    --num_workers 0 # \
+    # --skip_train
 done
